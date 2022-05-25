@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align='center'>Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -17,6 +17,14 @@
   <img src="https://komarev.com/ghpvc/?username=userigorgithub&style=flat-square&color=3CD218" alt="Profile view counter"/>
 </div>
 
+## About Me:
+Coming soon
+
+<p>
+   <a href="https://www.linkedin.com/in/ingvard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://jruppdesign.com/"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logoColor=white" alt="Website"></a>
+   <a href="mailto:joerpp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+</p>
 
 
 
