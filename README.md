@@ -22,8 +22,8 @@ Coming soon
 
 <p>
    <a href="https://www.linkedin.com/in/ingvard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://jruppdesign.com/"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logoColor=white" alt="Website"></a>
-   <a href="mailto:joerpp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+ <a href="https://id.com/"><img src="https://img.shields.io/badge/MyWebsite-343434?style=for-the-badge&logoColor=white" alt="MyWebsite"></a>
 </p>
 
 
