@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=userigorgithub&style=flat-square&color=3CD218" alt="Profile view counter"/>
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2016%20mins-blue" alt="Code time" />
+<!--   <img src="http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2016%20mins-blue" alt="Code time" /> -->
 </div>
 
 ## About Me:
