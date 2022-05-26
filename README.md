@@ -49,17 +49,12 @@ Coming soon
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
-  <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-262626?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF?"/>
-  <img src="https://img.shields.io/badge/Illustrator-262626?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/InDesign-262626?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
-  <img src="https://img.shields.io/badge/XD-262626?style=for-the-badge&logo=adobexd&logoColor=#FF61F6"/>
+  
 </p>
 
 ## Processes:
