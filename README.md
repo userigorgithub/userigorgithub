@@ -1,9 +1,13 @@
-
+## Table of Content:
+[My Stats](#stats) | 
+[About Me](#about-me) | 
+[Technologies](#technologies)
 
 <h1 align='center'>Hello there!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+## Stats:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=userigorgithub&show_icons=true&theme=dark&hide_border=true"/>
@@ -26,7 +30,8 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
 <!--  <a href="https://id.com/"><img src="https://img.shields.io/badge/MyWebsite-343434?style=for-the-badge&logoColor=white" alt="MyWebsite"></a> -->
 </p>
 
-## Languages:
+## Technologies:
+### Languages:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +39,7 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </p>
 
-## Frameworks/Libraries:
+### Frameworks/Libraries:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -42,7 +47,7 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
 </p>
 
-## Tools:
+### Tools:
 <p>
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,7 +65,7 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
   
 </p>
 
-## Processes:
+### Processes:
 <p>
   <img src="https://img.shields.io/badge/OOP%20-EDD016.svg?&style=for-the-badge&logo=OOP&logoColor=black"/>
   <img src="https://img.shields.io/badge/TDD%20-6EEE80.svg?&style=for-the-badge&logo=TDD&logoColor=black"/>
