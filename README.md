@@ -3,7 +3,8 @@
 [About Me](#about-me) | 
 [Technologies](#technologies)
 
-<h1 align='center'>Hello there!
+<h1 align='center'>Who enters my domain..?</h1>
+<h1 align='center'>Oh, hello there!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -30,11 +31,11 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
 <!--    <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> -->
 <!--  <a href="https://id.com/"><img src="https://img.shields.io/badge/MyWebsite-343434?style=for-the-badge&logoColor=white" alt="MyWebsite"></a> -->
 </p>
-
+<!-- F7DF1E -->
 ## Technologies:
 ### Languages:
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=black"/>
