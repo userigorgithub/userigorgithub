@@ -3,10 +3,9 @@
 [About Me](#about-me) | 
 [Technologies](#technologies)
 
-<!-- <h1 align='center'>Who enters my domain..?</h1> -->
-<h1 align='center'>Oh, hello there!
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
-</h1>
+<h1 align='center'>Who enters my domain..?</h1>
+<h1 align='center'>Oh, hello there!</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## My Stats:
 <div align="center">
