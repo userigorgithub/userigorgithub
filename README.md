@@ -28,7 +28,7 @@ I am a creative bilingual Software Engineer capable of handling multiple softwar
 
 <p>
    <a href="https://www.linkedin.com/in/ingvard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="mailto:i.decess@comcast.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+   <a href="mailto:igordecess@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <!--  <a href="https://id.com/"><img src="https://img.shields.io/badge/MyWebsite-343434?style=for-the-badge&logoColor=white" alt="MyWebsite"></a> -->
 </p>
 
