@@ -27,7 +27,7 @@
 I am a creative bilingual Software Engineer capable of handling multiple software projects simultaneously. Eager to learn new technologies and work in teams to build efficient and robust applications that enhance client satisfaction, experience, and loyalty. Experienced in software testing and quality assurance. Highly flexible and dependable. Contact me via LinkedIn or Email (igordecess@gmail.com)!
 
 <p>
-   <a href="https://www.linkedin.com/in/ingvard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/in/igordecess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="mailto:igordecess@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <!--  <a href="https://id.com/"><img src="https://img.shields.io/badge/MyWebsite-343434?style=for-the-badge&logoColor=white" alt="MyWebsite"></a> -->
 </p>
