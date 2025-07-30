@@ -24,7 +24,7 @@
 </div>
 
 ## About Me:
-I am a creative bilingual Software Engineer capable of handling multiple software projects simultaneously. Eager to learn new technologies and work in teams to build efficient and robust applications that enhance client satisfaction, experience, and loyalty. Experienced in software testing and quality assurance. Highly flexible and dependable. Contact me via LinkedIn or Email (igordecess@gmail.com)!
+Creative Front-End Software Engineer focused on building intuitive, high-performance user interfaces using JavaScript, TypeScript, React, and modern CSS/SCSS. Experienced in implementing responsive design, component-based architecture, and test-driven development (TDD) to deliver accessible (WCAG), maintainable, and scalable web applications that improve user experience, focus on client satisfaction, and support long-term product growth. Highly flexible and dependable. Contact me via LinkedIn or Email (igordecess@gmail.com)!
 
 <p>
    <a href="https://www.linkedin.com/in/igordecess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
